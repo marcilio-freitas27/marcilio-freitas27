@@ -11,7 +11,7 @@
 - ⚡ Gostando de codificar
 ```
 
-[![marcilio-freitas27 github stats](https://github-readme-stats.vercel.app/api?username=marcilio-freitas27&theme=blue-green)](https://github.com/marcilio-freitas27/github-readme-stats)
+[![marcilio-freitas27's github stats](https://github-readme-stats.vercel.app/api?username=marcilio-freitas27&theme=blue-green)](https://github.com/marcilio-freitas27/github-readme-stats)
 
 [![marcilio-freitas27's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcilio-freitas27&theme=blue-green)](https://github.com/marcilio-freitas27/github-readme-stats)
 
