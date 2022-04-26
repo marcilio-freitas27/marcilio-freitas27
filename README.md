@@ -17,5 +17,5 @@
 
 ### Projetos fixados abaixo:
 
-[Formulário simples - Crud com Angular + Bootstrap](https://marcilio-freitas27.github.io/formulario-simples/)
-[Tecflix - Clone da Netflix](https://marcilio-freitas27.github.io/tecflix/)
+- Formulário simples: [Crud com Angular + Bootstrap](https://marcilio-freitas27.github.io/formulario-simples/)
+- Tecflix: [Clone da Netflix](https://marcilio-freitas27.github.io/tecflix/)
