@@ -4,10 +4,14 @@
 ```
 - 🔭 Instrutor de cursos interativos no Grau Profissionalizante em Parnamirim/RN
 - 🔭 Bolsista de desenvolvimento web no IFRN - Campus Parnamirim
-- 🔭 Cursando Tecnologia em Sistemas para Internet - IFRN - Campus Parnamirim - 2° período
-- 🌱 Aprendendo NodeJs, Express, Sequelize e Typescript
-- 😄 Futuro Dev Backend
+- 🔭 Estagiário de desenvolvimento frontend - Belt Sistemas
+- 🔭 Cursando Tecnologia em Sistemas para Internet - IFRN - Campus Parnamirim - 3° período
+- 🌱 Aprendendo NodeJs, Express, Sequelize, Typescript, Mysql e Angular
+- 😄 Futuro Dev Backend, minha preferência, mas também tenho interesse em aprender e trabalhar bastante com Frontend
 - ⚡ Gostando de codificar
 ```
 
-### Em andamento...
+[![marcilio-freitas27 github stats](https://github-readme-stats.vercel.app/api?username=marcilio-freitas27&theme=blue-green)](https://github.com/marcilio-freitas27/github-readme-stats)
+
+[![marcilio-freitas27's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcilio-freitas27&theme=blue-green)](https://github.com/marcilio-freitas27/github-readme-stats)
+
