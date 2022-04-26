@@ -15,3 +15,7 @@
 
 [![marcilio-freitas27's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcilio-freitas27&theme=blue-green)](https://github.com/marcilio-freitas27/github-readme-stats)
 
+### Projetos fixados abaixo:
+
+[Formulário simples - Crud com Angular + Bootstrap](https://marcilio-freitas27.github.io/formulario-simples/)
+[Tecflix - Clone da Netflix](https://marcilio-freitas27.github.io/tecflix/)
