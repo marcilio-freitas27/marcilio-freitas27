@@ -15,7 +15,9 @@
 
 [![marcilio-freitas27's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcilio-freitas27&theme=blue-green)](https://github.com/marcilio-freitas27/github-readme-stats)
 
-### Projetos fixados abaixo:
+### Projetos com github pages
 
 - Formulário simples: [Crud com Angular + Bootstrap](https://marcilio-freitas27.github.io/formulario-simples/)
 - Tecflix: [Clone da Netflix](https://marcilio-freitas27.github.io/tecflix/)
+- Lista de Tarefas: [Todo list com Javascript e Bootestrap](https://marcilio-freitas27.github.io/lista-de-tarefas/)
+- Bootstrap: [Estudos com Bootstrap](https://marcilio-freitas27.github.io/bootstrap/)
