@@ -3,10 +3,9 @@
 ### Quem sou  
 ```
 - 🔭 Instrutor de cursos interativos no Grau Profissionalizante em Parnamirim/RN
-- 🔭 Bolsista de desenvolvimento web no IFRN - Campus Parnamirim
-- 🔭 Estagiário de desenvolvimento frontend - Belt Sistemas
-- 🔭 Cursando Tecnologia em Sistemas para Internet - IFRN - Campus Parnamirim - 3° período
-- 🌱 Aprendendo NodeJs, Express, Sequelize, Typescript, Mysql e Angular
+- 🔭 Programador Frontend com Angular + Typescript - Belt Sistemas
+- 🔭 Cursando Tecnologia em Sistemas para Internet - IFRN - Campus Parnamirim - 5° período
+- 🌱 Angular + Typescript + MySql
 - 😄 Futuro Dev Backend, minha preferência, mas também tenho interesse em aprender e trabalhar bastante com Frontend
 - ⚡ Gostando de codificar
 ```
