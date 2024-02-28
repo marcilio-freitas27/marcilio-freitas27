@@ -4,7 +4,7 @@
 ### Atividades
 ```
 - 🔭 Programador Frontend com Angular + Typescript - Belt Sistemas
-- 🔭 Cursando Tecnologia em Sistemas para Internet - IFRN - Campus Parnamirim - 5° período
+- 🔭 Cursando Tecnologia em Sistemas para Internet - IFRN - Campus Parnamirim - 6° período
 - 🌱 Angular + Typescript + MySql
 - 😄 Estudando para Backend com Java + Springboot + MySQL
 ```
