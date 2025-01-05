@@ -3,10 +3,11 @@
 ***
 ### Atividades
 ```
-- 🔭 Programador Frontend com Angular + Typescript - Belt Sistemas
+- 🔭 Programador Front-End com Angular
+- 🔭 Programador Front-End e Back-End com Laravel + MySQl - Autônomo
 - 🔭 Formado em Tecnologia em Sistemas para Internet - IFRN - Campus Parnamirim
 - 🌱 Angular + Typescript + MySQL
-- 😄 Estudando para Backend com Java + Springboot + MySQL
+
 ```
 ***
 ![marcilio-freitas27 github stats](https://github-readme-stats.vercel.app/api?username=marcilio-freitas27&theme=blue-green)
