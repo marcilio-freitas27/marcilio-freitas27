@@ -15,8 +15,9 @@
 ![marcilio-freitas27' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcilio-freitas27&hide_progress=true&theme=blue-green)
 ### Projetos com github pages
 ***
-- Formulário simples: [Crud com Angular + Bootstrap](https://marcilio-freitas27.github.io/formulario-simples/)
+- Formulário simples: [Crud com Angular + Bootstrap](https://marcilio-freitas27.github.io/formulario-simples/) - login: usuario, senha: 123
 - Tecflix: [Clone da Netflix](https://marcilio-freitas27.github.io/tecflix/)
 - Lista de Tarefas: [Todo list com Javascript e Bootstrap](https://marcilio-freitas27.github.io/lista-de-tarefas/)
+- Rick & Morty Api: [Angular + Api + PrimeNG](https://marcilio-freitas27.github.io/angular-rickandmorty/) - login: usuario, senha: 123
 - Portfólio: [Meu portfólio](https://marcilio-freitas27.github.io/portfolio/)
 ***
