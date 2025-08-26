@@ -3,10 +3,12 @@
 ***
 ### Atividades
 ```
-- 🔭 Programador Front-End com Angular
+- 🔭 Programador Front-End com Angular(Freelancer) e Vue(Atualmente)
 - 🔭 Programador Front-End e Back-End com Laravel + MySQl - Autônomo
+- 🔭 Programador Back-End com Django + SQL Server
 - 🔭 Formado em Tecnologia em Sistemas para Internet - IFRN - Campus Parnamirim
-- 🌱 Angular + Typescript + MySQL
+- 🌱 Experiência com a Stack - Angular + Spring Boot + MySQL + Oracle
+- 🌱 Stack Atual - Vue + Django + SQL Server
 
 ```
 ***
